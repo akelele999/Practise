@@ -44,8 +44,8 @@ export default function Home() {
           <div className="heroCopy">
             <p className="eyebrow">UNDERGROUND INFRASTRUCTURE / THAILAND</p>
             <h1>
-              งานระบบใต้ดิน
-              <span>ที่ขับเคลื่อนด้วยความแม่นยำ</span>
+              วิศวกรรมงานระบบใต้ดิน
+              <span>สำหรับโครงสร้างพื้นฐานที่มีความซับซ้อน</span>
             </h1>
             <p className="heroLead">
               UNC Network ให้บริการ Horizontal Directional Drilling (HDD) และงานโครงสร้างพื้นฐานใต้ดิน
